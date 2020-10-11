@@ -1,0 +1,4 @@
+### sending a message to the topic
+POST http://localhost:8080/messages
+
+"Hola confluentes esta es una prueba"

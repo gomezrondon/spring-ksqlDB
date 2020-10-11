@@ -1,0 +1,1 @@
+https://medium.com/microsoftazure/messing-around-with-apache-kafka-using-the-confluent-cloud-free-trial-327888fc8b96
